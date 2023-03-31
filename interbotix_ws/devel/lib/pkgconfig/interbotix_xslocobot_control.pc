@@ -1,8 +1,0 @@
-prefix=/home/srishti/interbotix_ws/devel
-
-Name: interbotix_xslocobot_control
-Description: Description of interbotix_xslocobot_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: interbotix_xs_sdk interbotix_xs_modules interbotix_xslocobot_descriptions realsense2_camera rgbd_launch rplidar_ros
