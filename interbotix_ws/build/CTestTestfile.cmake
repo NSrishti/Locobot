@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/srishti/interbotix_ws/src
+# Build directory: /home/srishti/interbotix_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_common_modules")
+subdirs("interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_common_toolbox")
+subdirs("interbotix_ros_toolboxes/interbotix_perception_toolbox/interbotix_perception_toolbox")
+subdirs("interbotix_ros_core/interbotix_ros_xseries/interbotix_ros_xseries")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_ros_xslocobots")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/examples/interbotix_ros_xslocobots_examples")
+subdirs("interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_toolbox")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_moveit")
+subdirs("create3_sim_ros1/irobot_create_common/irobot_create_description")
+subdirs("interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs")
+subdirs("interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_modules")
+subdirs("interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox")
+subdirs("interbotix_ros_toolboxes/interbotix_perception_toolbox/interbotix_perception_modules")
+subdirs("interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_landmark_modules")
+subdirs("interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_tf_tools")
+subdirs("interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk")
+subdirs("interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_rviz")
+subdirs("interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_descriptions")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_control")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/examples/interbotix_xslocobot_joy")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/examples/interbotix_xslocobot_moveit_interface")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_nav")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_perception")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/examples/interbotix_xslocobot_landmark_nav")
+subdirs("interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_gazebo")
+subdirs("interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_ros_control")
