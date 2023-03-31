@@ -79,7 +79,7 @@ class RobotRunnerConfig:
                             shell=True, preexec_fn=os.setsid)
 
     def launch_mission(self, context: RobotRunnerContext):
-        time.sleep(100)
+        time.sleep(120)
 
     def stop_run(self, context: RobotRunnerContext) -> None:
         """Perform any activity required for stopping the run here.
